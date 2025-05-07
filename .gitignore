@@ -5,6 +5,7 @@
 obj/
 ipch/
 .vs/
+.vscode/
 .utmp/
 
 # SLN
