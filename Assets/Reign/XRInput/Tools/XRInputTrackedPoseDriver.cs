@@ -2,10 +2,6 @@ using UnityEngine;
 using UnityEngine.SpatialTracking;
 using UnityEngine.XR;
 
-#if !XRINPUT_DISABLE_OCULUSXR
-using Oculus.Interaction.Input;
-#endif
-
 namespace Reign.XR.Tools
 {
     public class XRInputTrackedPoseDriver : TrackedPoseDriver

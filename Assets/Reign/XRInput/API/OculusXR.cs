@@ -3,10 +3,6 @@ using System.Collections.Generic;
 using UnityEngine;
 using System.Runtime.InteropServices;
 
-#if !XRINPUT_DISABLE_OCULUSXR
-using Oculus.Interaction.Input;
-#endif
-
 namespace Reign.XR.API
 {
     #if !XRINPUT_DISABLE_OCULUSXR

@@ -92,7 +92,7 @@ namespace Reign.XR
             singleton = this;
 
             // print version
-            XRInput.Log("XRInput version: 1.5.0");
+            XRInput.Log("XRInput version: 1.5.1");
 
             // check if loaders are used
             bool useLoader = apiType != XRInputAPIType.Pico2VR;
