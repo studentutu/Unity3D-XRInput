@@ -5,6 +5,7 @@
 obj/
 ipch/
 .vs/
+.utmp/
 
 # SLN
 *.db
